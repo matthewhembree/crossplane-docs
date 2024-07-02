@@ -278,7 +278,7 @@ virtualmachines                   compute.example.com/v1alpha1           false  
 
 ## Create a deployment template
 
-When users access the custom API Crossplane takes their inputs and combines them
+When users access the custom API, Crossplane takes their inputs and combines them
 with a template describing what infrastructure to deploy. Crossplane calls this
 template a _Composition_.
 
